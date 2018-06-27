@@ -1,0 +1,2 @@
+webpackJsonp([0xc8c255b2505e],{212:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(2),r=a(u),o=function(){return r.default.createElement("div",null,r.default.createElement("iframe",{width:"600",height:"315","padding-left":"50",src:"https://www.youtube.com/embed/DWOko0rkXXg?autoplay=1&controls=0",frameborder:"0",allow:"autoplay; encrypted-media",allowfullscreen:!0}))};t.default=o,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-auteur-js-f0bafab0f0ace705badc.js.map
