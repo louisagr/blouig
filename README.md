@@ -1,26 +1,12 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# blouig : blog + louis + gatsby
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+--> http://blouig.surge.sh/ <--
 
-## Install
+Petit template de blog construit avec Gatsby.
 
-Make sure that you have the Gatsby CLI program installed:
-```sh
-npm install --global gatsby-cli
-```
+Inspiré par l'article d'Emmanuel Yusufu --> https://bit.ly/2N282WY
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+Palette de couleurs --> https://colorhunt.co/palette/17141
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-gatsby develop
-```
+<(￣︶￣)> <(￣︶￣)> <(￣︶￣)>
 
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
